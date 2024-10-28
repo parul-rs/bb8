@@ -1,0 +1,8 @@
+prefix=/home/user/catkin_ws/devel
+
+Name: bb_8_gazebo
+Description: Description of bb_8_gazebo
+Version: 0.1.0
+Cflags: -I/home/user/catkin_ws/src/bb8/bb_8_gazebo/include
+Libs: -L${prefix}/lib 
+Requires: control_toolbox gazebo_ros robot_controllers robot_controllers_interface

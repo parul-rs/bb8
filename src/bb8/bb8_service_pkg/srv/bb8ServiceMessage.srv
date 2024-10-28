@@ -1,0 +1,3 @@
+string command    # A string command representing the action
+---
+bool success    # Did it achieve it?
